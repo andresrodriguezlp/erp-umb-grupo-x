@@ -1,0 +1,6 @@
+@ErpUmb.Api_HostAddress = http://localhost:5277
+
+GET {{ErpUmb.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
